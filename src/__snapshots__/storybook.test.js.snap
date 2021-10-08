@@ -39,7 +39,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -84,7 +84,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -129,7 +129,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -174,7 +174,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -219,7 +219,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -264,7 +264,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -338,7 +338,7 @@ exports[`Storyshots Task Archived 1`] = `
     className="title"
   >
     <input
-      placeholder="Input title"
+      placeholder="Please input title"
       readOnly={true}
       style={
         Object {
@@ -378,7 +378,7 @@ exports[`Storyshots Task Default 1`] = `
     className="title"
   >
     <input
-      placeholder="Input title"
+      placeholder="Please input title"
       readOnly={true}
       style={
         Object {
@@ -426,7 +426,7 @@ exports[`Storyshots Task Long Title 1`] = `
     className="title"
   >
     <input
-      placeholder="Input title"
+      placeholder="Please input title"
       readOnly={true}
       style={
         Object {
@@ -474,7 +474,7 @@ exports[`Storyshots Task Pinned 1`] = `
     className="title"
   >
     <input
-      placeholder="Input title"
+      placeholder="Please input title"
       readOnly={true}
       style={
         Object {
@@ -532,7 +532,7 @@ exports[`Storyshots TaskList Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -577,7 +577,7 @@ exports[`Storyshots TaskList Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -622,7 +622,7 @@ exports[`Storyshots TaskList Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -667,7 +667,7 @@ exports[`Storyshots TaskList Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -712,7 +712,7 @@ exports[`Storyshots TaskList Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -757,7 +757,7 @@ exports[`Storyshots TaskList Default 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -996,7 +996,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -1041,7 +1041,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -1086,7 +1086,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -1131,7 +1131,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -1176,7 +1176,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
@@ -1221,7 +1221,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
         className="title"
       >
         <input
-          placeholder="Input title"
+          placeholder="Please input title"
           readOnly={true}
           style={
             Object {
